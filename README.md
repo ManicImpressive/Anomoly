@@ -11,3 +11,4 @@ HOWTO:
 4. This will download the most recent version of the repo to that folder. THESE ARE JUST BLUEPRINTS AND WIDGETS.
 5. Take the most up-to-date version of the project and move it into the folder. It needs this for the meshes and textures. If asked to overwrite anything, DON'T.
 6. Back in GitHub Desktop, FETCH origin. If there's new files to download/update, they should show up in the tab to the LEFT.
+7. Once you have finished your changes, COMMIT your changes on GitHub Desktop. To do this, fill in the SUMMARY and DESCRIPTION tabs in the box on the bottom left.
