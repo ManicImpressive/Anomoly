@@ -1,8 +1,14 @@
 /Content/Cigar_room/AllTextures
-/Intermediate
+/Intermediate/CachedAssetRegistry
+/Saved/Cooked/Windows/Anomoly/Content
+/Saved/Cooked/Windows/Anomoly/Metadata/ShaderLibrarySource
+/Saved/Cooked/Windows/Anomoly/Shaders
+/Saved/Cooked/Windows/Anomoly/StagedBuilds
 /Binaries
 /Build
 /Content/Assets/Meshes
 /Content/Assets/Textures
 /Content/Assets/Materials
 /Saved
+Intermediate/Build/Win64/x64/Anomoly/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch
+Intermediate/Build/Win64/x64/MementoInspo/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch

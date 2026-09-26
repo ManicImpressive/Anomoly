@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\MementoInspo\\Intermediate\\Source\\MementoInspo.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\MementoInspo\\Intermediate\\Source\\MementoInspo.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\MementoInspo\\Intermediate\\Source\\MementoInspoClient.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\MementoInspo\\Intermediate\\Source\\MementoInspoEditor.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\MementoInspo\\Intermediate\\Source\\MementoInspoServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

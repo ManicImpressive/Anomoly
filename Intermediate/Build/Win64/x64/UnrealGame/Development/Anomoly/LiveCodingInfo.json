@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Anomoly.cpp.obj": [
+			"Anomoly.cpp.obj"
+		]
+	}
+}

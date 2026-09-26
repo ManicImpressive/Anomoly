@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE Projects\\Anomoly - Copy\\Intermediate\\Source\\Anomoly.Build.cs",
+		"D:\\UE Projects\\Anomoly - Copy\\Intermediate\\Source\\Anomoly.Target.cs",
+		"D:\\UE Projects\\Anomoly - Copy\\Intermediate\\Source\\AnomolyClient.Target.cs",
+		"D:\\UE Projects\\Anomoly - Copy\\Intermediate\\Source\\AnomolyEditor.Target.cs",
+		"D:\\UE Projects\\Anomoly - Copy\\Intermediate\\Source\\AnomolyServer.Target.cs"
+	],
+	"EngineVersion": "5.8.2"
+}
