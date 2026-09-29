@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joshu\\documents\\unreal projects\\anomoly\\intermediate\\source\\mementoinspo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joshu\\documents\\unreal projects\\anomoly\\intermediate\\build\\win64\\x64\\anomoly\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joshu\\documents\\unreal projects\\anomoly\\intermediate\\build\\win64\\x64\\unrealgame\\development\\anomoly\\definitions.anomoly.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

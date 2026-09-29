@@ -1,0 +1,14 @@
+"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Module.Anomoly.cpp"
+@"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Anomoly.Shared.rsp"
+/FI"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/Anomoly/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Definitions.Anomoly.h"
+/Yu"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/Anomoly/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/Anomoly/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Module.Anomoly.cpp.obj"
+/experimental:log "D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Module.Anomoly.cpp.sarif"
+/sourceDependencies "D:/UE Projects/Anomoly - Copy/Intermediate/Build/Win64/x64/UnrealGame/Development/Anomoly/Module.Anomoly.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

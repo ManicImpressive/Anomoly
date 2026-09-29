@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joshu\\documents\\unreal projects\\mementoinspo\\intermediate\\source\\mementoinspo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joshu\\documents\\unreal projects\\mementoinspo\\intermediate\\build\\win64\\x64\\mementoinspo\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joshu\\documents\\unreal projects\\mementoinspo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\mementoinspo\\definitions.mementoinspo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

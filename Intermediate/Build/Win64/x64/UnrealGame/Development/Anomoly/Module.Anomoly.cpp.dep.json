@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\anomoly - copy\\intermediate\\build\\win64\\x64\\unrealgame\\development\\anomoly\\module.anomoly.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\anomoly - copy\\intermediate\\build\\win64\\x64\\anomoly\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\anomoly - copy\\intermediate\\build\\win64\\x64\\unrealgame\\development\\anomoly\\definitions.anomoly.h",
+            "d:\\ue projects\\anomoly - copy\\intermediate\\source\\anomoly.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
