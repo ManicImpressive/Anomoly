@@ -4454,8 +4454,8 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 17,
-				"VersionName": "0.0.17",
+				"Version": 18,
+				"VersionName": "0.0.19",
 				"FriendlyName": "Fab",
 				"Description": "Fab Plugin",
 				"Category": "Other",
